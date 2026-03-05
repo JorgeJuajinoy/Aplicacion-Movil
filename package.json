@@ -1,13 +1,14 @@
 {
   "name": "api_usuarios",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API REST de usuarios con Express y MongoDB",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jorge Juajinoy",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
